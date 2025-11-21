@@ -23,6 +23,6 @@ header
 #Proyecto_destacado
 {
 	text-decoration-line: underline;
-	text-decoration-color: blue;
 	text-align: center;
+	color: aqua; 
 }
