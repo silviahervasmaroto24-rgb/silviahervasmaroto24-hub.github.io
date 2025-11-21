@@ -16,5 +16,10 @@ font-family: san-serif, Times New Roman, Arial;
 	
 	
 }
-
+header
+{
+	border-bottom: 2px dashed black;
+	text-align: center;
+	background: pink;
+}
 }
