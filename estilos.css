@@ -1,0 +1,27 @@
+*
+{
+    margin: 1%;
+    padding: 0.05%;
+}
+
+body
+{
+font-family: san-serif, Times New Roman, Arial;
+}
+header
+{
+    border-bottom: 2px dashed black;
+    text-align: center;
+    background: pink;
+}
+Proyecto_destacado 
+{
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+    text-align: center;
+}
+Descripcion_sobre_mi 
+{
+    text-align: center;
+    background: pink;
+}
