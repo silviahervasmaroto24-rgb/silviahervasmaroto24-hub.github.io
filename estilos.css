@@ -11,15 +11,17 @@ background: white;
 
 font-family: san-serif, Times New Roman, Arial;
 
-#Proyecto_destacado
-{
-	
-	
 }
+
 header
 {
 	border-bottom: 2px dashed black;
 	text-align: center;
 	background: pink;
 }
+
+#Proyecto_destacado
+{
+	font_color="black"
+	
 }
