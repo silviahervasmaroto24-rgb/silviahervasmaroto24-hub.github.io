@@ -1,7 +1,21 @@
+*
+{
+margin: 5%;
+height: 5%;
+padding:2%;
+}
+
 body 
 {
 
 background: white;
+
 font-family: san-serif, Times New Roman, Arial;
+
+#Proyecto_destacado
+{
+	width: 50%;
+
+}
 
 }
