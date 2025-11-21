@@ -24,5 +24,10 @@ Proyecto_destacado
 {
 	text-decoration-line: underline;
 	text-align: center;
-	color: aqua; 
+}
+
+Descripcion_sobre_mi
+{
+	text-align: center;
+	background: pink;
 }
