@@ -6,11 +6,7 @@ padding:0.05%;
 
 body 
 {
-
-background: white;
-
 font-family: san-serif, Times New Roman, Arial;
-
 }
 
 header
@@ -23,6 +19,7 @@ header
 Proyecto_destacado
 {
 	text-decoration-line: underline;
+	text-decoration-color: blue;
 	text-align: center;
 }
 
