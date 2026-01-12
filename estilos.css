@@ -20,3 +20,9 @@ div
     text-decoration-color: blue;
     text-align: center;
 }
+.contenedor-flex {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center;     /* Centra verticalmente */
+  height: 100vh; /* Ejemplo para ocupar toda la altura */
+}
