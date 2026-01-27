@@ -19,10 +19,14 @@ div
     
 }
 .contenedor-flex {
-  display: flex;
-  justify-content: center; 
-  align-items: center;    
-  height:  device-height; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: device-height;
 
-
+    @media (max-width: 600px) {
+        .column {
+            width: 100%;
+        }
+    }
 }
