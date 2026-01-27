@@ -24,7 +24,7 @@ div
     align-items: center;
     height: device-height;
 
-    @media (max-width: 600px) {
+    @media (max-width: 800px) {
         .column {
             width: 100%;
         }
