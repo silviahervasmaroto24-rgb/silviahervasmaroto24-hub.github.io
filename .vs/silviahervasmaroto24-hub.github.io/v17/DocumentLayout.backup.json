@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CampusFP\\Desktop\\PortfolioSilvia\\silviahervasmaroto24-hub.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CampusFP\\Desktop\\PortfolioSilvia\\silviahervasmaroto24-hub.github.io\\estilos.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:estilos.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CampusFP\\Desktop\\PortfolioSilvia\\silviahervasmaroto24-hub.github.io\\Contacto.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contacto.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "estilos.css",
+              "DocumentMoniker": "C:\\Users\\CampusFP\\Desktop\\PortfolioSilvia\\silviahervasmaroto24-hub.github.io\\estilos.css",
+              "RelativeDocumentMoniker": "estilos.css",
+              "ToolTip": "C:\\Users\\CampusFP\\Desktop\\PortfolioSilvia\\silviahervasmaroto24-hub.github.io\\estilos.css",
+              "RelativeToolTip": "estilos.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-19T11:38:03.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacto.html",
+              "DocumentMoniker": "C:\\Users\\CampusFP\\Desktop\\PortfolioSilvia\\silviahervasmaroto24-hub.github.io\\Contacto.html",
+              "RelativeDocumentMoniker": "Contacto.html",
+              "ToolTip": "C:\\Users\\CampusFP\\Desktop\\PortfolioSilvia\\silviahervasmaroto24-hub.github.io\\Contacto.html",
+              "RelativeToolTip": "Contacto.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-19T11:38:01.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
