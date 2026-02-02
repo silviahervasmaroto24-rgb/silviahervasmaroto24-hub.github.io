@@ -15,6 +15,7 @@ font-family: san-serif, Times New Roman, Arial;
     'header'
     'menu'
     'main'
+    'imagen'
     'contenedor-flexible'
     'footer';
   gap: 10px;  
@@ -38,6 +39,15 @@ font-family: san-serif, Times New Roman, Arial;
   width: 80%;
 }
 
+.imagen
+{
+
+}
+
+
+
+
+
 img {
   width: 100%;
   height: auto;
@@ -48,7 +58,8 @@ img {
   .menu {grid-area: 2 / span 1;}
   .content {grid-area: 2 / span 2;}
   .contenedor-flexible {grid-area: 2 / span 1;}
-  .footer {grid-area: 3 / span 6;}
+  .imagen {grid-area: 3 / span 1;}
+  .footer {grid-area: 4 / span 6;}
 }
 
 @media (min-width: 1024px) {
@@ -56,5 +67,6 @@ img {
   .menu {grid-area: 2 / span 4;}
   .content {grid-area: 2 / span 2;}
   .contenedor-flexible {grid-area: 2 / span 1;}
-  .footer {grid-area: 3 / span 6;}
+  .imagen {grid-area: 3 / span 4;}
+  .footer {grid-area: 4 / span 6;}
 }
