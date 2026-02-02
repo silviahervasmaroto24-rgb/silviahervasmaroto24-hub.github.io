@@ -1,7 +1,6 @@
 *
 {
-    margin: 1%;
-    padding: 0.05%;
+    box-sizing: border-box;
 }
 
 body
@@ -9,7 +8,8 @@ body
 font-family: san-serif, Times New Roman, Arial;
 }
 
-.grid-container {
+.grid-container 
+{
   display: grid;
   grid-template-areas:
     'header'
@@ -17,23 +17,30 @@ font-family: san-serif, Times New Roman, Arial;
     'main'
     'contenedor-flexible'
     'footer';
-  background-color: white;
   gap: 10px;  
 }
 
 .header
 {
+    grid-area: header;
     border-bottom: 2px dashed black;
     text-align: center;
     background: pink;
 }
 
-.contenedor-flex {
+.contenedor-flex 
+{
   grid-area: contenedor-flexible;
   display: flex;
   justify-content: center; 
   align-items: center;    
-  height:  device-height; 
+  height:  device-height;
+  width: 80%;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
 
 @media (max-width: 800px) {
